@@ -1,0 +1,5 @@
+# Debian x86_64 .deb package
+
+> sudo dpkg -i --force-overwrite rts.deb
+>
+> rts
