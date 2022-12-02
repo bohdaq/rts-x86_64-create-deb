@@ -1,0 +1,9 @@
+Package: rts
+Version: 2.0.0
+Architecture: all
+Maintainer: Bohdan Tsap <bohdan.tsap@tutanota.com>
+Homepage: https://github.com/bohdaq/rust-tls-server
+Depends: bash
+Section: unknown
+Priority: optional
+Description: rust-tls-server (rts) is a web server capable of serving static content over https.
